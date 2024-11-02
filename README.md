@@ -31,18 +31,34 @@ I’m enhancing my skills in:
 ---
 
 ## 📚 Projects
-### 1. **Trading Automation Platform**
-- **Description**: A comprehensive tool for automating trading strategies using C++ and MQL5.
-- **Tech Used**: C++, Node.js, PostgreSQL, AWS services
+### 1. **Speedyy – Super App for Food & Grocery Delivery**
+- **Role**: CTO & Principal Software Architect
+- **Description**: Led the development of a super app for food and grocery delivery, ensuring scalability and resilience of the backend system.
+- **Achievements**: Orchestrated a distributed backend, ensuring zero downtime during peak loads, and integrated AWS services for optimal performance.
+- **Tech Used**: Node.js (TypeScript), Angular, PostgreSQL (RDS), AWS (SQS, SNS, EKS), Docker, CI/CD, Redis, Terraform
 - [🔗 View Repository](#)
 
-### 2. **Scalable ERP for Forex Brokers**
-- **Description**: Designed a robust ERP system capable of handling high concurrency with seamless uptime.
-- **Tech Used**: Node.js, PostgreSQL, Docker, AWS SQS/SNS
+### 2. **Sportsbuzz – Sports News Platform**
+- **Role**: Lead Full-Stack Developer
+- **Description**: Developed and deployed the entire sports news platform from the ground up, incorporating real-time updates and interactive features.
+- **Achievements**: Managed end-to-end development with a focus on fast data retrieval and user-friendly interfaces.
+- **Tech Used**: Node.js, React, ArangoDB, Redis, Next.js, PouchDB, CouchDB
 - [🔗 View Repository](#)
 
-### 3. **dApp Marketplace Prototype**
-- **Description**: A decentralized marketplace using blockchain technology for secure transactions.
+### 3. **Fefifo – Co-Farming Platform**
+- **Role**: Lead Full-Stack & React Native Developer
+- **Description**: Spearheaded the development of a co-farming app, creating an intuitive interface and reliable backend to facilitate farming operations.
+- **Achievements**: Contributed to a seamless user experience and implemented robust backend services to support multi-user collaboration.
+- **Tech Used**: Node.js, React Native, ArangoDB, PostgreSQL, KOA, Redis
+- [🔗 View Repository](#)
+
+### 4. **Scalable ERP for Forex Brokers**
+- **Description**: Built a comprehensive ERP system tailored for Forex brokers, scaling for high concurrency and uptime.
+- **Tech Used**: Node.js, PostgreSQL, AWS (SQS, SNS), Docker
+- [🔗 View Repository](#)
+
+### 5. **dApp Marketplace Prototype**
+- **Description**: A decentralized marketplace for secure, blockchain-based transactions.
 - **Tech Used**: Solidity, React, Ethereum, Smart Contracts
 - [🔗 View Repository](#)
 
@@ -50,14 +66,13 @@ I’m enhancing my skills in:
 
 ## 🏆 Achievements & Certifications
 - **HackerRank Certifications**: Problem Solving (Basic), Node.js (Intermediate), REST API (Intermediate)
-- **Numerous successful deployments** across personal banking platforms (HSBC) and sports news websites.
+- **Key Deployments**: Successful implementations across personal banking platforms at HSBC, comprehensive ERP systems, and various tech initiatives.
 
 ---
 
 ## 🤝 Let's Connect!
-- **LinkedIn**: [Your LinkedIn](#)
-- **Email**: [Your Email](mailto:your.email@example.com)
-- **Portfolio**: [Your Portfolio](#)
+- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/mohit-gupta-23361a101/)
+- **Email**: [Your Email](mailto:mohit.gupta665@gmail.com)
 
 ---
 
